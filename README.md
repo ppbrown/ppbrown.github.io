@@ -1,4 +1,4 @@
-# ppbrown.github.io
+# [https://github.com/ppbrown]
 
 I have many github repos. Some of them are "throwaway" ones, or temporary experiments.
 The ones below, however, may be of interest to other people.
