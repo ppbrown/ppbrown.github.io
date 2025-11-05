@@ -4,7 +4,7 @@ I have many github repos. Some of them are "throwaway" ones, or temporary experi
 The ones below, however, may be of interest to other people.
 
 * [FluxCD Demo](https://github.com/ppbrown/fluxcd-public-demo) (helm,fluxcd) - Easiest way to see [FluxCD](https://fluxcd.io/) in your own test k8s cluster
-* [ArgoCD Demo](https://github.com/ppbrown/argocd-public-demo] (bash, argocd) - Similar to above, a CLI driven super-quick demo of [ArgoCD](https://argoproj.github.io/) for your own test k8s cluster
+* [ArgoCD Demo](https://github.com/ppbrown/argocd-public-demo) (bash, argocd) - Similar to above, a CLI driven super-quick demo of [ArgoCD](https://argoproj.github.io/) for your own test k8s cluster
 * [ZRep](https://github.com/bolthole/zrep/) (bash) - My ZFS based snapshot, backup, and recovery system
 * [VLM Utils](https://github.com/ppbrown/vlm-utils) (python) - Utilities that may be useful with Visual Language (AI) Models
 * [AI Training](https://github.com/ppbrown/ai-training) (python) - Utilities for training an AI Model
