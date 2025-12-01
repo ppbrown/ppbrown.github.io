@@ -3,6 +3,7 @@
 I have many github repos. Some of them are "throwaway" ones, or temporary experiments.
 The ones below, however, may be of interest to other people.
 
+* [SOPS github Demo](https://github.com/ppbrown/gcp-sops-demo) - How to securely keep secret information in github
 * [FluxCD Demo](https://github.com/ppbrown/fluxcd-public-demo) (helm,fluxcd) - Easiest way to see [FluxCD](https://fluxcd.io/) in your own test k8s cluster
 * [ArgoCD Demo](https://github.com/ppbrown/argocd-public-demo) (bash, argocd) - Similar to above, a CLI driven super-quick demo of [ArgoCD](https://argoproj.github.io/) for your own test k8s cluster
 * [ZRep](https://github.com/bolthole/zrep/) (bash) - My ZFS based snapshot, backup, and recovery system
