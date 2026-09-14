@@ -4,7 +4,7 @@ I have many github repos. Some of them are "throwaway" ones, or temporary experi
 The ones below, however, may be of interest to other people.
 
 * [SOPS github Demo](https://github.com/ppbrown/gcp-sops-demo) - How to securely keep secret information in github
-* [Grafana Containerwatch](https://github.com/ppbrown/helm-grafana-containerwatch) Plugnplay stack to drop a container dashboard into your cluster
+* [Grafana Containerwatch](https://github.com/ppbrown/helm-grafana-containerwatch) Plugnplay stack to drop a container resource monitoring dashboard into your cluster
 * [FluxCD Starer Kit](https://github.com/ppbrown/fluxcd-starterkit) My take on a full GitOps quickstart for [FluxCD](https://fluxcd.io/)
 * [ArgoCD Demo](https://github.com/ppbrown/argocd-public-demo) (bash, argocd) - A CLI driven super-quick demo of [ArgoCD](https://argoproj.github.io/) for your own test k8s cluster
 * [ZRep](https://github.com/bolthole/zrep/) (bash) - My ZFS based snapshot, backup, and recovery system
